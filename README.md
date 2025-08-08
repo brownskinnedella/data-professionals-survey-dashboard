@@ -14,7 +14,7 @@ It allows users to:
 - Analyze **average satisfaction ratings** for salary 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboards Preview
 
 ### Design 1
 ![Dashboard Design 1](assets/dashboard_design1.png)
@@ -35,9 +35,9 @@ It allows users to:
 - **Most Popular Programming Language**: Python dominates, followed by SQL.
 - **Top Respondent Countries**: USA, India, and UK are most represented.
 - **Average Ratings** *(Scale: 1–10)*:
-  - Salary Satisfaction: **6.2**
-  - Work-Life Balance: **7.1**
-  - Ease of Entry into Data: **5.8**
+  - Salary Satisfaction: **4.27**
+  - Work-Life Balance: **5.74**
+  
 
 ---
 
